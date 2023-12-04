@@ -1,0 +1,10 @@
+uvicorn 
+
+fastapi
+
+sqlalchemy
+
+passlib
+
+motor
+
