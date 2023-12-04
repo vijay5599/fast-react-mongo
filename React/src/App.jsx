@@ -37,6 +37,7 @@ function App() {
         backgroundColor: "white",
         marginTop: "15px",
         alignItems: "center",
+        fontFamily: "cursive",
       }}
     >
       <h1 className="card text-white bg-primary mb-1"> Task Manager</h1>
